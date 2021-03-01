@@ -1,0 +1,2 @@
+class Pengajuan < ApplicationRecord
+end
